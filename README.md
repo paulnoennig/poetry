@@ -2,5 +2,5 @@
 ## Paul Noennig
 
 ### Authors of Poetry
-* Poe
-* Shakespeare
+* Edgar Allan Poe
+* William Shakespeare
