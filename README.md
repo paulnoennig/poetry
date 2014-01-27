@@ -4,4 +4,3 @@
 ### Authors of Poetry
 * Poe
 * Shakespeare
-* Berglund
