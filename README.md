@@ -1,5 +1,6 @@
 # Poetry
-## Paul Noennig
+---
+with Paul and othersg
 
 ### Authors of Poetry
 * Edgar Allan Poe
